@@ -35,7 +35,7 @@ To analyze patterns of customer churn and help stakeholders make data-driven dec
 
 ## Files Included
 
-- `/Dashboard/Customer_Churn_Analysis.pbix`: Power BI dashboard file
+- `/Dashboard/Churn Analysis.pbix`: Power BI dashboard file
 - `/Data/`: Raw and cleaned datasets
 - `/Images/`: Dashboard screenshots
 - `/Data_preprocessing.sql`: sql file for data cleaning
@@ -47,12 +47,6 @@ To analyze patterns of customer churn and help stakeholders make data-driven dec
 - **Power BI** – Data modeling, visualization
 - **SQL** – Data preprocessing
 - **DAX** – Custom measures and KPIs
-
----
-
-## Sample Visuals
-
-![Churn Dashboard](Images/churn_summary_dashboard.png)
 
 ---
 
