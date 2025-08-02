@@ -50,11 +50,6 @@ To analyze patterns of customer churn and help stakeholders make data-driven dec
 
 ---
 
-## Sample Visuals
-
-![Churn Dashboard](Images/churn_summary_dashboard.png)
-
----
 
 ## Contact
 
