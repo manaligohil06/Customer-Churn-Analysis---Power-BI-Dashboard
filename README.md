@@ -17,7 +17,7 @@ To analyze patterns of customer churn and help stakeholders make data-driven dec
   - Month-to-month contracts (46.5% churn).
   - Customers without online security (84.6% churn).
   - Customers using mailed check payments (37.8% churn).
-- **Demographics:** Female customers have a slightly higher churn (35.85%).
+- **Demographics:** Aged over 50 customers have higher churn (31.0%).
 - **Top Churn States:** Jammu (57.2%), Assam (38.1%), Jharkhand (34.5%).
 
 ---
@@ -26,7 +26,7 @@ To analyze patterns of customer churn and help stakeholders make data-driven dec
 
 1. **Summary Page**
    - Total Customers, New Joiners, Total Churn, Churn Rate
-   - Visuals: Gender, Age, Tenure, Geography, Internet Type, Payment Method, Contract Type, Services Used
+   - Visuals: Age, Tenure, Geography, Internet Type, Payment Method, Contract Type, Services Used
 
 2. **Churn Reason Page**
    - Deep dive into churn drivers (competitor offer, pricing, dissatisfaction, support issues etc.)
